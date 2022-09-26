@@ -1,0 +1,22 @@
+/* * {
+  margin: 0;
+  padding: 0;
+} */
+
+.square {
+  width: 120px;
+  height: 120px;
+  margin: 10px;
+  background: #f447ff;
+  display: flex;
+  font-size: 25px;
+}
+
+.obj_container {
+  display: flex;
+}
+
+.innerText {
+  margin: auto;
+  padding-right: 15px;
+}
